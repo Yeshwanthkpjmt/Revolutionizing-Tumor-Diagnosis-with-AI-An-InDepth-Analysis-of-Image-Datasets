@@ -27,3 +27,19 @@ These are the topics covered in the paper:
     
 9) Ethical Considerations
 
+
+📜 LICENSE:-
+
+⚠️ Strict Usage Policy
+
+🔒 This project and all its contents — including **code**, **images**, **data**, and **results** — are **fully protected**.
+
+You **MAY NOT**:
+- Reuse, reproduce, modify, or redistribute any part of this project.
+- Use it for **personal**, **academic**, or **commercial** gain **without written consent** from the author.
+
+💼 Unauthorized commercial use will lead to **legal action**.
+
+📧 Contact for Permissions
+To request permission for use, contact:  
+**👉 yeshwanthkpjmt@gmail.com**
